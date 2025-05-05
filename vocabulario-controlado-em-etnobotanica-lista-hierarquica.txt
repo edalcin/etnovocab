@@ -1,0 +1,100 @@
+Título: Vocabulário Controlado em Etnobotânica
+Autor: Grupo de discussão em Estruturas e Padrões de Dados para Etnobotânica - [EtnoData]
+Palavras-chaves: 
+Cobertura: 
+URI: https://etnovocab.jbrj.gov.br/vocab/
+Criado por: TemaTres 3.5.1
+__________________________________________________________________________
+Usos Artesanais
+ .	Cestaria
+Usos Medicinais
+ .	Ajuda (clisteres)
+ .	Ataque de nervos
+ .	Balneoterapia
+ .	Banhos
+ .	Benzedor
+ .	Benzedura
+ .	Benzinheiras
+ .	Candomblé
+ .	Cataplasma
+ .	Catolicismo brasileiro ou "de folk"
+ .	Cházinho
+ .	Código Internacional de Doenças
+ .	 .	Acidente por animal peçonhento
+ .	 .	Condições relacionadas à saúde sexual
+ .	 .	Doenças da pele
+ .	 .	Doenças do sangue ou dos órgãos formadores do sangue
+ .	 .	 .	Anemias
+ .	 .	Doenças do sistema circulatório
+ .	 .	Doenças do sistema digestivo
+ .	 .	Doenças do sistema geniturinário
+ .	 .	Doenças do sistema imune
+ .	 .	Doenças do sistema musculoesquelético ou tecido conjuntivo
+ .	 .	Doenças do sistema nervoso
+ .	 .	Doenças do sistema respiratório
+ .	 .	Doenças endócrinas, nutricionais ou metabólicas
+ .	 .	Doenças infecciosas ou parasitárias
+ .	 .	 .	Sarampo
+ .	 .	Gravidez, parto ou puerpério
+ .	 .	Lesões, envenenamentos ou algumas outras consequências de causas externas
+ .	 .	 .	Queimaduras
+ .	 .	Neoplasias
+ .	 .	Sintomas, sinais ou achados clínicos, não classificados em outra parte
+ .	 .	 .	Soluço
+ .	 .	Transtornos de sono-vigília
+ .	 .	Transtornos mentais, comportamentais ou do neurodesenvolvimento
+ .	Compressa
+ .	Curador
+ .	Curandeiro
+ .	Curandeiro de picadas de cobras
+ .	Curtimento
+ .	Defumação Medicinal
+ .	Derrame
+ .	Dietas
+ .	Doenças do ar
+ .	Espante
+ .	Especialista em recursos naturais
+ .	Fitoterapia
+ .	Fumigações
+ .	Garrafada
+ .	Grosseiro no corpo
+ .	Inalação
+ .	Lambedouro
+ .	Mãe do corpo
+ .	Massagem
+ .	Massoterapeutas
+ .	Mau-olhado
+ .	Medicina Empírica
+ .	Medicina Mágica
+ .	Medicina Religiosa
+ .	Medicina Rústica
+ .	Médium
+ .	Meizinha
+ .	Mistura
+ .	Panema
+ .	Parteiras
+ .	Pingafobia
+ .	Pingaterapia
+ .	Presidente do Toré
+ .	Profilaxia Mágica
+ .	 .	Amuleto
+ .	 .	Mochilinha
+ .	 .	Opúsculo
+ .	 .	Patuá
+ .	 .	Relique
+ .	 .	Talismã
+ .	Promessas
+ .	Purgante
+ .	Quebranto ou Quebrante
+ .	Raizeiro
+ .	Recursos naturais
+ .	Resguardo
+ .	Rezador
+ .	Rezas e bênçãos
+ .	Simpatia
+ .	Suadouro
+ .	Susto
+ .	Tópico - Unguento
+ .	Toré
+ .	Vento caído
+ .	Vomitório

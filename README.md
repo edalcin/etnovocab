@@ -30,3 +30,11 @@ A construção do VCEB é uma iniciativa __multidisciplinar__. Integramos conhec
 * __Protocolo de Inserção__: Desenvolvemos um guia claro para adicionar termos e notas, garantindo a consistência do vocabulário.
 
 Pensamos o VCEB como uma __tecnologia social__ com enorme potencial. Ele fortalece a conexão entre ciência e tradição, agregando valor à pesquisa, à conservação da biodiversidade e, acima de tudo, aos saberes essenciais sobre a interação entre pessoas e plantas no Brasil.
+
+## Participantes
+
+* Viviane Kruel (JBRJ)
+* Eduardo Dalcin (JBRJ)
+* Thalita Lima (JBRJ)
+* Lucas Zelesco (FUNAI)
+* Danielle Antunes (FUNAI)

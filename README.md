@@ -38,3 +38,4 @@ Pensamos o VCEB como uma __tecnologia social__ com enorme potencial. Ele fortale
 * Thalita Lima (JBRJ)
 * Lucas Zelesco (FUNAI)
 * Danielle Antunes (FUNAI)
+* Carlos Coimbra (FIOCRUZ)

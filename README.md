@@ -1,3 +1,8 @@
+> :warning: **Warning:** Este projeto está em andamento e faz parte de um conjunto de projetos relacionados:<p>
+> [Estruturas e Padrões de Dados para Etnobotânica - (EtnoData)](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos)<br>
+> [Developing a Data Extension for Documenting Socio-Biodiversity Information](https://github.com/edalcin/cesp-sibbr-2024)<br>
+> [Vocabulário Controlado em Etnobotânica (VCEB): Conectando Saberes](https://github.com/edalcin/etnovocab)<br>
+
 # Vocabulário Controlado em Etnobotânica (VCEB): Conectando Saberes
 
 Nosso projeto foca em testar a construção de um Vocabulário Controlado em Etnobotânica (VCEB). Nosso objetivo é criar uma ferramenta que possa futuramente subsidiar a construção de bases de dados organizadas sobre a diversidade sobre o conhecimento do uso tradicional de plantas no Brasil, com especial atenção às medicinais. Buscamos incluir perspectivas que vão além do registro convencional, abrangendo o conhecimento êmico (interno às comunidades) e o saber oral, que nem sempre estão bem representados nos bancos de dados existentes. __É fundamental ressaltar que todo o nosso trabalho segue rigorosos protocolos éticos e legais, utilizando exclusivamente dados já publicados e/ou previamente compactuados por comunidades tradicionais e/ou indígenas__.
